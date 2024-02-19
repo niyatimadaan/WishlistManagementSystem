@@ -1,4 +1,4 @@
-package com.example.wishlistmanagement.tests;
+package com.example.wishlistmanagement.ControllerTests;
 
 import com.example.wishlistmanagement.controller.AuthenticationController;
 import com.example.wishlistmanagement.dao.LoginUser;
